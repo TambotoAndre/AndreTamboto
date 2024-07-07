@@ -8,3 +8,10 @@
 ## About Me
 
 I am a highly enthusiastic, integrity-driven, and perseverant individual with a Bachelor's degree in Informatics of Computer Science from Klabat University.
+
+## Education
+
+2020 - 2024
+Klabat University
+Bachelor of Computer Science
+GPA 3.77/4.00
