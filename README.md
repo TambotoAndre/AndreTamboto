@@ -15,3 +15,6 @@ I am a highly enthusiastic, integrity-driven, and perseverant individual with a 
 Klabat University
 Bachelor of Computer Science
 GPA 3.77/4.00
+
+## Python Colab Notebook
+(https://drive.google.com/drive/folders/1gfu_Gr1fYp_40jXhui72zka9vcwNO52S?usp=drive_link)
