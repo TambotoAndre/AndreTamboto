@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a highly enthusiastic, integrity-driven, and perseverant individual with a Bachelor's degree in Informatics of Computer Science from Klabat University.
+I am a highly enthusiastic, integrity-driven, and perseverant individual.
 
 ## Education
 
